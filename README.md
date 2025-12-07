@@ -1,6 +1,6 @@
 # Omnia Automation & Beyond - Official Website (Client Project)
 
-A production-level company website built with **Nextjs + React + Tailwind + Framer Motion**.
+A production-level company website built with **Nextjs + React + Tailwind + Framer Motion + SQL**.
 
 ### 🔧 My Contributions (Not the full project owner)
 ✔ Rebuilt UI components for better consistency & responsiveness  <br>
@@ -12,5 +12,5 @@ A production-level company website built with **Nextjs + React + Tailwind + Fram
 ### 🌐 Live Website
 🔗 https://omniaautomation.com
 
-### ⚠ Notice
+### ⚠ Please Note
 This repository contains only the *few parts of modified components and frontend UI changes* to demonstrate my contribution - original proprietary files & backend logic are excluded.
