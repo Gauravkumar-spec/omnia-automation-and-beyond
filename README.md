@@ -13,4 +13,4 @@ A production-level company website built with **Nextjs + React + Tailwind + Fram
 🔗 https://omniaautomation.com
 
 ### ⚠ Note
-This repository contains only the *few parts of modified components and frontend UI changes* to demonstrate my contribution - original proprietary files & backend logic are excluded.
+This repository contains *only the few parts of modified components and frontend UI changes* to demonstrate my contribution - original proprietary files & backend logic are excluded.
